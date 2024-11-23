@@ -1,0 +1,6 @@
+Scenario,Sources,Zones,Connections,ExecutionTime(ms),SatisfactionRate(%),ResourceUtilization(%),CostEfficiency
+Small Town Network,2,4,5,34.23,97.13,95.22,0.6320
+Suburban District,4,8,12,13.17,74.82,76.46,0.7174
+City Network,6,15,25,5.57,58.63,76.22,0.6260
+Metropolitan Area,8,20,35,3.39,84.41,86.96,0.6415
+Regional Network,10,30,50,6.12,78.02,90.52,0.6188

@@ -1,0 +1,363 @@
+
+=== Small Town Network ===
+Configuration:
+- Sources: 2
+- Zones: 4
+- Connections: 5
+
+Performance Metrics:
+- Execution Time: 9.28 ms
+- Overall Satisfaction Rate: 97.13%
+- Resource Utilization: 95.22%
+- Cost Efficiency: 0.6320
+
+Priority-based Analysis:
+Priority 1:
+  Zones: 2
+  Demand: 42.34
+  Allocated: 39.33
+  Satisfaction Rate: 92.87%
+Priority 2:
+  Zones: 1
+  Demand: 27.19
+  Allocated: 27.19
+  Satisfaction Rate: 100.00%
+Priority 3:
+  Zones: 1
+  Demand: 35.42
+  Allocated: 35.42
+  Satisfaction Rate: 100.00%
+
+Detailed Allocations:
+Zone 1:
+  Total Allocated: 18.22 units
+  - Connection 1: 18.22 units
+Zone 2:
+  Total Allocated: 21.11 units
+  - Connection 2: 21.11 units
+Zone 3:
+  Total Allocated: 27.19 units
+  - Connection 3: 27.19 units
+Zone 4:
+  Total Allocated: 35.42 units
+  - Connection 4: 35.42 units
+
+---------------------------------------------------
+
+
+=== Suburban District ===
+Configuration:
+- Sources: 4
+- Zones: 8
+- Connections: 12
+
+Performance Metrics:
+- Execution Time: 3.36 ms
+- Overall Satisfaction Rate: 74.82%
+- Resource Utilization: 76.46%
+- Cost Efficiency: 0.7174
+
+Priority-based Analysis:
+Priority 1:
+  Zones: 4
+  Demand: 110.41
+  Allocated: 60.23
+  Satisfaction Rate: 54.55%
+Priority 2:
+  Zones: 2
+  Demand: 68.00
+  Allocated: 68.00
+  Satisfaction Rate: 100.00%
+Priority 3:
+  Zones: 2
+  Demand: 77.92
+  Allocated: 63.57
+  Satisfaction Rate: 81.58%
+
+Detailed Allocations:
+Zone 1:
+  Total Allocated: 25.86 units
+  - Connection 1: 25.86 units
+Zone 3:
+  Total Allocated: 28.76 units
+  - Connection 3: 28.76 units
+Zone 4:
+  Total Allocated: 5.61 units
+  - Connection 4: 5.61 units
+Zone 5:
+  Total Allocated: 33.48 units
+  - Connection 5: 33.48 units
+Zone 6:
+  Total Allocated: 34.52 units
+  - Connection 6: 34.52 units
+Zone 7:
+  Total Allocated: 37.74 units
+  - Connection 7: 37.74 units
+Zone 8:
+  Total Allocated: 25.83 units
+  - Connection 8: 25.83 units
+
+---------------------------------------------------
+
+
+=== City Network ===
+Configuration:
+- Sources: 6
+- Zones: 15
+- Connections: 25
+
+Performance Metrics:
+- Execution Time: 2.82 ms
+- Overall Satisfaction Rate: 58.63%
+- Resource Utilization: 76.22%
+- Cost Efficiency: 0.6260
+
+Priority-based Analysis:
+Priority 1:
+  Zones: 9
+  Demand: 301.94
+  Allocated: 99.84
+  Satisfaction Rate: 33.07%
+Priority 2:
+  Zones: 3
+  Demand: 121.78
+  Allocated: 113.08
+  Satisfaction Rate: 92.86%
+Priority 3:
+  Zones: 3
+  Demand: 147.57
+  Allocated: 122.02
+  Satisfaction Rate: 82.69%
+
+Detailed Allocations:
+Zone 2:
+  Total Allocated: 25.41 units
+  - Connection 2: 25.41 units
+Zone 4:
+  Total Allocated: 32.23 units
+  - Connection 4: 32.23 units
+Zone 6:
+  Total Allocated: 8.51 units
+  - Connection 6: 8.51 units
+Zone 7:
+  Total Allocated: 33.70 units
+  - Connection 7: 33.70 units
+Zone 10:
+  Total Allocated: 33.84 units
+  - Connection 17: 33.84 units
+Zone 11:
+  Total Allocated: 37.41 units
+  - Connection 11: 37.41 units
+Zone 12:
+  Total Allocated: 41.83 units
+  - Connection 12: 41.83 units
+Zone 13:
+  Total Allocated: 50.65 units
+  - Connection 13: 50.65 units
+Zone 14:
+  Total Allocated: 23.62 units
+  - Connection 14: 23.62 units
+Zone 15:
+  Total Allocated: 47.75 units
+  - Connection 15: 47.75 units
+
+---------------------------------------------------
+
+
+=== Metropolitan Area ===
+Configuration:
+- Sources: 8
+- Zones: 20
+- Connections: 35
+
+Performance Metrics:
+- Execution Time: 3.20 ms
+- Overall Satisfaction Rate: 84.41%
+- Resource Utilization: 86.96%
+- Cost Efficiency: 0.6415
+
+Priority-based Analysis:
+Priority 1:
+  Zones: 12
+  Demand: 462.82
+  Allocated: 327.01
+  Satisfaction Rate: 70.66%
+Priority 2:
+  Zones: 5
+  Demand: 234.63
+  Allocated: 234.63
+  Satisfaction Rate: 100.00%
+Priority 3:
+  Zones: 3
+  Demand: 173.86
+  Allocated: 173.86
+  Satisfaction Rate: 100.00%
+
+Detailed Allocations:
+Zone 2:
+  Total Allocated: 35.05 units
+  - Connection 2: 35.05 units
+Zone 3:
+  Total Allocated: 39.48 units
+  - Connection 32: 39.48 units
+Zone 4:
+  Total Allocated: 40.80 units
+  - Connection 4: 25.74 units
+  - Connection 27: 15.07 units
+Zone 6:
+  Total Allocated: 15.77 units
+  - Connection 6: 15.77 units
+Zone 7:
+  Total Allocated: 41.24 units
+  - Connection 7: 6.10 units
+  - Connection 26: 35.14 units
+Zone 9:
+  Total Allocated: 39.82 units
+  - Connection 9: 39.82 units
+Zone 10:
+  Total Allocated: 36.45 units
+  - Connection 10: 36.45 units
+Zone 11:
+  Total Allocated: 36.40 units
+  - Connection 11: 36.40 units
+Zone 12:
+  Total Allocated: 41.97 units
+  - Connection 12: 41.97 units
+Zone 13:
+  Total Allocated: 50.14 units
+  - Connection 13: 50.14 units
+Zone 14:
+  Total Allocated: 46.24 units
+  - Connection 14: 46.24 units
+Zone 15:
+  Total Allocated: 42.79 units
+  - Connection 15: 42.79 units
+Zone 16:
+  Total Allocated: 46.27 units
+  - Connection 16: 46.27 units
+Zone 17:
+  Total Allocated: 49.19 units
+  - Connection 17: 46.91 units
+  - Connection 29: 2.28 units
+Zone 18:
+  Total Allocated: 60.60 units
+  - Connection 18: 60.60 units
+Zone 19:
+  Total Allocated: 59.41 units
+  - Connection 19: 59.41 units
+Zone 20:
+  Total Allocated: 53.85 units
+  - Connection 20: 53.85 units
+
+---------------------------------------------------
+
+
+=== Regional Network ===
+Configuration:
+- Sources: 10
+- Zones: 30
+- Connections: 50
+
+Performance Metrics:
+- Execution Time: 3.87 ms
+- Overall Satisfaction Rate: 78.02%
+- Resource Utilization: 90.52%
+- Cost Efficiency: 0.6188
+
+Priority-based Analysis:
+Priority 1:
+  Zones: 18
+  Demand: 782.01
+  Allocated: 457.67
+  Satisfaction Rate: 58.53%
+Priority 2:
+  Zones: 7
+  Demand: 369.14
+  Allocated: 369.14
+  Satisfaction Rate: 100.00%
+Priority 3:
+  Zones: 5
+  Demand: 324.74
+  Allocated: 324.74
+  Satisfaction Rate: 100.00%
+
+Detailed Allocations:
+Zone 2:
+  Total Allocated: 41.84 units
+  - Connection 2: 41.84 units
+Zone 3:
+  Total Allocated: 17.91 units
+  - Connection 3: 17.91 units
+Zone 4:
+  Total Allocated: 43.64 units
+  - Connection 40: 43.64 units
+Zone 6:
+  Total Allocated: 45.14 units
+  - Connection 6: 45.14 units
+Zone 7:
+  Total Allocated: 18.58 units
+  - Connection 7: 18.58 units
+Zone 9:
+  Total Allocated: 29.57 units
+  - Connection 9: 29.57 units
+Zone 11:
+  Total Allocated: 23.87 units
+  - Connection 11: 23.87 units
+Zone 12:
+  Total Allocated: 43.68 units
+  - Connection 12: 43.68 units
+Zone 13:
+  Total Allocated: 41.41 units
+  - Connection 13: 41.41 units
+Zone 14:
+  Total Allocated: 40.43 units
+  - Connection 43: 40.43 units
+Zone 15:
+  Total Allocated: 45.03 units
+  - Connection 15: 5.71 units
+  - Connection 33: 39.33 units
+Zone 16:
+  Total Allocated: 45.08 units
+  - Connection 16: 45.08 units
+Zone 18:
+  Total Allocated: 21.48 units
+  - Connection 18: 21.48 units
+Zone 19:
+  Total Allocated: 56.52 units
+  - Connection 19: 56.52 units
+Zone 20:
+  Total Allocated: 49.19 units
+  - Connection 20: 49.19 units
+Zone 21:
+  Total Allocated: 55.30 units
+  - Connection 21: 55.30 units
+Zone 22:
+  Total Allocated: 51.63 units
+  - Connection 22: 51.63 units
+Zone 23:
+  Total Allocated: 52.20 units
+  - Connection 23: 52.20 units
+Zone 24:
+  Total Allocated: 56.19 units
+  - Connection 24: 56.19 units
+Zone 25:
+  Total Allocated: 48.11 units
+  - Connection 25: 48.11 units
+Zone 26:
+  Total Allocated: 62.61 units
+  - Connection 26: 62.61 units
+Zone 27:
+  Total Allocated: 65.53 units
+  - Connection 27: 65.53 units
+Zone 28:
+  Total Allocated: 66.19 units
+  - Connection 28: 66.19 units
+Zone 29:
+  Total Allocated: 60.99 units
+  - Connection 29: 60.99 units
+Zone 30:
+  Total Allocated: 69.43 units
+  - Connection 30: 69.43 units
+
+---------------------------------------------------
+
